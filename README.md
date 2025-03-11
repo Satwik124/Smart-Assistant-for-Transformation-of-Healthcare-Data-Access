@@ -1,0 +1,2 @@
+# Smart-Assistant-for-Transformation-of-Healthcare-Data-Access
+Smart Assistant for Healthcare Data Access is an AI-powered chatbot that helps users query structured and unstructured healthcare data efficiently. It leverages Neo4j for knowledge graph-based retrieval and integrates with LangChain for contextual responses. The assistant is deployed using FastAPI and Streamlit for seamless interaction
